@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_cost,list_price,supplier
+P1000,Jacket Model 0,Jackets,149.7,396.27,NordicSupply
+P1001,Climbing Model 1,Climbing,107.87,285.94,NordicSupply
+P1002,Accessorie Model 2,Accessories,127.83,271.82,NordicSupply
+P1003,Tent Model 3,Tents,170.18,313.52,Summit Co
+P1004,Tent Model 4,Tents,142.56,353.67,unknown
+P1005,Climbing Model 5,Climbing,125.36,291.63,PeakGear
+P1006,Jacket Model 6,Jackets,126.55,243.37,TrailMakers
+P1007,Accessorie Model 7,Accessories,72.44,111.0,PeakGear
+P1008,Footwear Model 8,Footwear,14.53,35.53,unknown
+P1009,Jacket Model 9,Jackets,100.58,177.77,unknown
+P1010,Sleeping Bag Model 10,Sleeping Bags,53.49,145.04,unknown
+P1011,Navigation Model 11,Navigation,94.61,164.37,PeakGear
+P1012,Accessorie Model 12,Accessories,188.92,296.96,NordicSupply
+P1013,Climbing Model 13,Climbing,57.6,147.66,TrailMakers
+P1014,Accessorie Model 14,Accessories,,32.87,NordicSupply
+P1015,Climbing Model 15,Climbing,67.65,111.69,NordicSupply
+P1016,Sleeping Bag Model 16,Sleeping Bags,,157.28,TrailMakers
+P1017,Footwear Model 17,Footwear,148.33,389.28,TrailMakers
+P1018,Climbing Model 18,Climbing,126.09,211.2,Summit Co
+P1019,Tent Model 19,Tents,174.19,319.54,Summit Co
+P1020,Sleeping Bag Model 20,Sleeping Bags,148.83,370.34,PeakGear
+P1021,Backpack Model 21,Backpacks,94.15,259.91,PeakGear
+P1022,Footwear Model 22,Footwear,180.57,379.38,Summit Co
+P1023,Navigation Model 23,Navigation,43.4,69.5,PeakGear
+P1024,Climbing Model 24,Climbing,12.81,18.18,NordicSupply
+P1025,Accessorie Model 25,Accessories,27.09,46.64,TrailMakers
+P1026,Tent Model 26,Tents,161.14,255.33,TrailMakers
+P1027,Climbing Model 27,Climbing,105.92,248.78,TrailMakers
+P1028,Sleeping Bag Model 28,Sleeping Bags,42.19,66.26,PeakGear
+P1029,Tent Model 29,Tents,114.22,240.87,TrailMakers
+P1030,Tent Model 0,Tents,40.29,95.57,NordicSupply
+P1031,Footwear Model 1,Footwear,155.62,344.47,TrailMakers
+P1032,Jacket Model 2,Jackets,102.59,172.32,PeakGear
+P1033,Sleeping Bag Model 3,Sleeping Bags,88.78,224.24,TrailMakers
+P1034,Navigation Model 4,Navigation,71.92,172.72,Summit Co
+P1035,Jacket Model 5,Jackets,141.62,344.78,NordicSupply
+P1036,Climbing Model 6,Climbing,84.7,134.12,TrailMakers
+P1037,Climbing Model 7,Climbing,26.58,41.82,TrailMakers
+P1038,Backpack Model 8,Backpacks,33.02,89.11,NordicSupply
+P1039,Accessorie Model 9,Accessories,211.92,414.64,unknown
+P1040,Footwear Model 10,Footwear,200.62,365.39,NordicSupply
+P1041,Climbing Model 11,Climbing,156.34,325.82,unknown
+P1042,Accessorie Model 12,Accessories,64.36,149.83,unknown
+P1043,Backpack Model 13,Backpacks,213.47,584.45,PeakGear
+P1044,Jacket Model 14,Jackets,173.1,311.76,NordicSupply
+P1045,Navigation Model 15,Navigation,159.98,431.1,TrailMakers
+P1046,Tent Model 16,Tents,103.26,148.16,PeakGear
+P1047,Navigation Model 17,Navigation,65.72,143.09,PeakGear
+P1048,Accessorie Model 18,Accessories,28.43,65.04,unknown
+P1049,Climbing Model 19,Climbing,199.35,-308.64,unknown
+P1050,Climbing Model 20,Climbing,104.62,167.02,PeakGear
+P1051,Footwear Model 21,Footwear,50.9,101.13,NordicSupply
+P1052,Backpack Model 22,Backpacks,72.86,200.56,TrailMakers
+P1053,Tent Model 23,Tents,130.79,292.24,unknown
+P1054,Tent Model 24,Tents,45.48,123.08,PeakGear
+P1055,Jacket Model 25,Jackets,189.6,478.95,PeakGear
+P1056,Sleeping Bag Model 26,Sleeping Bags,168.81,346.79,NordicSupply
+P1057,Footwear Model 27,Footwear,160.53,401.11,NordicSupply
+P1058,Accessorie Model 28,Accessories,99.6,141.93,Summit Co
+P1059,Accessorie Model 29,Accessories,140.99,218.93,TrailMakers
+P1060,Navigation Model 0,Navigation,131.83,337.64,Summit Co
+P1061,Accessorie Model 1,Accessories,145.77,366.69,NordicSupply
+P1062,Backpack Model 2,Backpacks,25.9,44.7,Summit Co
+P1063,Navigation Model 3,Navigation,96.15,206.06,TrailMakers
+P1064,Tent Model 4,Tents,16.82,37.82,PeakGear
+P1065,Backpack Model 5,Backpacks,112.73,294.77,NordicSupply
+P1066,Navigation Model 6,Navigation,77.93,174.9,PeakGear
+P1067,Backpack Model 7,Backpacks,38.64,76.41,unknown
+P1068,Jacket Model 8,Jackets,29.92,57.56,unknown
+P1069,Tent Model 9,Tents,132.58,264.66,Summit Co
+P1070,Climbing Model 10,Climbing,44.17,102.15,unknown
+P1071,Footwear Model 11,Footwear,204.13,533.7,NordicSupply
+P1072,Tent Model 12,Tents,131.18,267.01,NordicSupply
+P1073,Footwear Model 13,Footwear,81.54,142.45,Summit Co
+P1074,Accessorie Model 14,Accessories,133.27,230.73,NordicSupply
+P1075,Tent Model 15,Tents,12.83,31.36,NordicSupply
+P1076,Backpack Model 16,Backpacks,211.21,537.15,PeakGear
+P1077,Footwear Model 17,Footwear,110.25,170.6,Summit Co
+P1078,Sleeping Bag Model 18,Sleeping Bags,173.94,259.72,PeakGear
+P1079,Accessorie Model 19,Accessories,25.54,57.01,unknown
+P1080,Navigation Model 20,Navigation,111.17,178.39,NordicSupply
+P1081,Tent Model 21,Tents,112.03,286.18,Summit Co
+P1082,Footwear Model 22,Footwear,206.82,379.4,unknown
+P1083,Climbing Model 23,Climbing,129.21,206.92,unknown
+P1084,Accessorie Model 24,Accessories,108.38,291.47,Summit Co
+P1085,Accessorie Model 25,Accessories,64.6,105.41,unknown
+P1086,Jacket Model 26,Jackets,78.29,140.81,PeakGear
+P1087,Backpack Model 27,Backpacks,118.38,191.19,PeakGear
+P1088,Climbing Model 28,Climbing,101.05,157.81,PeakGear
+P1089,Climbing Model 29,Climbing,12.58,17.98,NordicSupply
+P1090,Tent Model 0,Tents,183.17,270.64,unknown
+P1091,Climbing Model 1,Climbing,197.99,325.59,NordicSupply
+P1092,Climbing Model 2,Climbing,37.73,55.64,unknown
+P1093,Tent Model 3,Tents,,279.47,unknown
+P1094,Navigation Model 4,Navigation,31.02,72.99,Summit Co
+P1095,Backpack Model 5,Backpacks,150.51,293.66,TrailMakers
+P1096,Footwear Model 6,Footwear,67.62,124.77,NordicSupply
+P1097,Accessorie Model 7,Accessories,147.8,311.32,PeakGear
+P1098,Accessorie Model 8,Accessories,,425.57,Summit Co
+P1099,Footwear Model 9,Footwear,170.95,443.03,Summit Co
+P1100,Climbing Model 10,Climbing,30.84,45.05,PeakGear
+P1101,Footwear Model 11,Footwear,202.19,334.44,NordicSupply
+P1102,Climbing Model 12,Climbing,56.81,98.36,Summit Co
+P1103,Jacket Model 13,Jackets,15.93,27.86,Summit Co
+P1104,Climbing Model 14,Climbing,125.63,276.35,Summit Co
+P1105,Climbing Model 15,Climbing,86.64,171.79,PeakGear
+P1106,Climbing Model 16,Climbing,183.92,270.17,Summit Co
+P1107,Accessorie Model 17,Accessories,179.35,344.9,PeakGear
+P1108,Tent Model 18,Tents,,160.48,PeakGear
+P1109,Accessorie Model 19,Accessories,210.01,323.91,PeakGear
+P1110,Backpack Model 20,Backpacks,69.67,-178.83,NordicSupply
+P1111,Climbing Model 21,Climbing,117.19,172.59,PeakGear
+P1112,Sleeping Bag Model 22,Sleeping Bags,62.26,167.78,NordicSupply
+P1113,Tent Model 23,Tents,206.44,317.66,NordicSupply
+P1114,Sleeping Bag Model 24,Sleeping Bags,42.9,110.73,unknown
+P1115,Sleeping Bag Model 25,Sleeping Bags,17.52,46.67,NordicSupply
+P1116,Jacket Model 26,Jackets,100.24,277.81,PeakGear
+P1117,Footwear Model 27,Footwear,218.38,550.94,PeakGear
+P1118,Footwear Model 28,Footwear,197.04,490.88,TrailMakers
+P1119,Jacket Model 29,Jackets,,383.32,PeakGear

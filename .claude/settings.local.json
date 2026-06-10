@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 _build/gen_v2_05_08.py)"
+    ]
+  }
+}
